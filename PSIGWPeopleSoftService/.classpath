@@ -11,5 +11,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/mssql-jdbc-6.2.2.jre7.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Desarrollo/workstpaceEclipse/workspace/PSIGWPeopleSoftService/lib/javax-xml-soap-1.6.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
